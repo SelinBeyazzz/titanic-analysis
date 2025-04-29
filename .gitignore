@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+
+# Environment and system files
+.env
+.DS_Store
